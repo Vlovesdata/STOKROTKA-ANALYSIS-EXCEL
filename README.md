@@ -1,3 +1,5 @@
+![](https://github.com/Vlovesdata/STOKROTKA-ANALYSIS-EXCEL/blob/main/stokrotka.png)
+
 # STOKROTKA APP BUSINESS REPORT
 This project analyzes the Stokrotka App to identify areas for improving efficiency and user experience. Stokrotka is a leading Polish retail chain, and the app analysis focuses on understanding user behaviors, feedback, and pain points to drive app improvements.
 
